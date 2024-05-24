@@ -1,0 +1,5 @@
+Test allItems == null
+$Test name == null, barcode == null
+*Testing if barcode has invalid character
+DTest discount > 0, price >= 300, barcode[0] == '0', sum >= payment
+"Test sum < payment, discount < 0
