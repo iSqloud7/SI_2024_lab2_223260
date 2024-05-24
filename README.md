@@ -5,12 +5,15 @@
 ![ControlFlowGraph drawio](https://github.com/iSqloud7/SI_2024_lab2_223260/assets/139021789/38a9d0c3-6edc-4328-88da-d275e61294e4)
 # Цикломатска комплексност
 I-начин
+<br>
 M=E-N+2P
 Е=48
 Н=40
 М=48-40+2
 М=10
+<br>
 II-начин
+<br>
 Цикломатска комплексност за овој код е 10, и истата ја добив со броење на бројот на региони во Control Flow Graph. 
 
 # Every Branch критериум (Test-Cases)
